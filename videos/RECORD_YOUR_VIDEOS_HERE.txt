@@ -1,0 +1,4 @@
+No hardware execution videos are included.
+Record each exercise on the real STM32 board with your student ID card clearly visible.
+Suggested filenames: Exercise_3_1.mp4, Exercise_3_2.mp4, Exercise_3_3.mp4, Exercise_4.mp4.
+Follow the root README checklist, then rebuild the ZIP including your recordings.

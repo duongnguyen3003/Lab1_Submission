@@ -1,0 +1,11 @@
+PASS: LED sequences, lengths, segment codes, debounce, 256 NEC commands, jitter, invalid complements, repeat, timeout and recovery
+PASS: Exercise 4 command byte display, four mode selections, unknown key, single consumption and LED4 toggled only by OK
+PASS project links: Exercise_3_1_LED
+PASS ARM syntax and object compilation: Exercise_3_1_LED
+PASS project links: Exercise_3_2_7Segment
+PASS ARM syntax and object compilation: Exercise_3_2_7Segment
+PASS project links: Exercise_3_3_NEC
+PASS ARM syntax and object compilation: Exercise_3_3_NEC
+PASS project links: Exercise_4_RemoteApplication
+PASS ARM syntax and object compilation: Exercise_4_RemoteApplication
+All checks passed. Final GCC firmware linking, flashing and hardware execution remain board-side checks.
